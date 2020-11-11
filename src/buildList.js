@@ -4,11 +4,13 @@ const ropsten = require('./tokens/ropsten.json');
 const rinkeby = require('./tokens/rinkeby.json');
 const goerli = require('./tokens/goerli.json');
 const kovan = require('./tokens/kovan.json');
+const bsc_mainnet = require('./tokens/bsc-mainnet.json');
+const bsc_testnet = require('./tokens/bsc-testnet.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Uniswap Default List',
+    'name': 'Uniscam Default List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -26,7 +28,9 @@ module.exports = function buildList() {
       ...ropsten,
       ...goerli,
       ...kovan,
-      ...rinkeby
+      ...rinkeby,
+      ...bsc_mainnet,
+      ...bsc_testnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

@@ -1,11 +1,11 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "1.5.0",
-  "description": "◦ The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "@lychees/default-token-list",
+  "version": "1.0.0",
+  "description": "◦ The Uniscam default token list",
+  "main": "build/uniscam-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniscam-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
