@@ -1,7 +1,7 @@
 [
   {
     "name": "Heco-Peg HUSD Token",
-    "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+    "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
     "symbol": "HUSD",
     "decimals": 8,
     "chainId": 128,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Heco-Peg ETH Token",
-    "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+    "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 128,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Heco-Peg HBTC Token",
-    "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+    "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
     "symbol": "HBTC",
     "decimals": 18,
     "chainId": 128,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Heco-Peg HLTC Token",
-    "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+    "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
     "symbol": "HLTC",
     "decimals": 18,
     "chainId": 128,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Heco-Peg HDOT Token",
-    "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+    "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
     "symbol": "HDOT",
     "decimals": 18,
     "chainId": 128,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Heco-Peg HBCH Token",
-    "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+    "address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375",
     "symbol": "HBCH",
     "decimals": 18,
     "chainId": 128,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Heco-Peg HBSV Token",
-    "address": "0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1",
+    "address": "0xc2CB6B5357CcCE1B99Cd22232942D9A225Ea4eb1",
     "symbol": "HBSV",
     "decimals": 18,
     "chainId": 128,
@@ -57,7 +57,7 @@
   },
   {
     "name": "Heco-Peg HXTZ Token",
-    "address": "0x45e97dad828ad735af1df0473fc2735f0fd5330c",
+    "address": "0x45e97daD828AD735af1dF0473fc2735F0Fd5330c",
     "symbol": "HXTZ",
     "decimals": 18,
     "chainId": 128,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Heco-Peg HFIL Token",
-    "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+    "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
     "symbol": "HFIL",
     "decimals": 18,
     "chainId": 128,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Wrapped HT",
-    "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+    "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
     "symbol": "WHT",
     "decimals": 18,
     "chainId": 128,
