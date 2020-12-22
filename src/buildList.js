@@ -6,6 +6,7 @@ const goerli = require('./tokens/goerli.json');
 const kovan = require('./tokens/kovan.json');
 const bsc_mainnet = require('./tokens/bsc-mainnet.json');
 const bsc_testnet = require('./tokens/bsc-testnet.json');
+const heco_mainnet = require('./tokens/heco-mainnet.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -30,7 +31,8 @@ module.exports = function buildList() {
       ...kovan,
       ...rinkeby,
       ...bsc_mainnet,
-      ...bsc_testnet
+      ...bsc_testnet,
+      ...heco_mainnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
