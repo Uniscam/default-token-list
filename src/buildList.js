@@ -11,7 +11,7 @@ const heco_mainnet = require('./tokens/heco-mainnet.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Uniscam Default List',
+    'name': 'Unisave Default List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
