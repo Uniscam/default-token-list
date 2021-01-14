@@ -78,5 +78,13 @@
     "decimals": 18,
     "chainId": 128,
     "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
+  },
+  {
+    "name": "EarnDefiCoin",
+    "address": "0x68a0A1fEF18DfCC422Db8bE6F0F486dEa1999EDC",
+    "symbol": "EDC",
+    "decimals": 9,
+    "chainId": 128,
+    "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
   }
 ]
