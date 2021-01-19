@@ -86,5 +86,13 @@
     "decimals": 9,
     "chainId": 128,
     "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
+  },
+  {
+    "name": "Heco-Peg HPT Token",
+    "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+    "symbol": "HPT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
   }
 ]
