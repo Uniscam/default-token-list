@@ -94,5 +94,13 @@
     "decimals": 18,
     "chainId": 128,
     "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+  },
+  {
+    "name": "Heco-Peg USDTHECO Token",
+    "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/heco-mainnet/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
   }
 ]
