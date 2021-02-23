@@ -502,5 +502,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/bsc-mainnet/0x4d05de8d57b238457d62dadd6d3b395bbc8c9824.png"
+  },
+  {
+    "name": "Binance-Peg USD Coin",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Uniscam/token-icons/master/bsc-mainnet/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
   }
 ]
